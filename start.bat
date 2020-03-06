@@ -1,0 +1,1 @@
+python "C:\Users\Dima\Documents\Desktop 2.0\Jarvis\shell.py"
